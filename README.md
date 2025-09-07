@@ -1,3 +1,4 @@
-"C:\Users\Admin\OneDrive\Documents\New folder\College admission management system Report.pdf"
+SHORT SUMMARY ABOUT THE PROJECT.
+<img width="462" height="442" alt="image" src="https://github.com/user-attachments/assets/f1dd2e40-0f1b-41ac-9c29-dca32083b626" />
 
 <img width="788" height="483" alt="image" src="https://github.com/user-attachments/assets/ff6466bc-6b94-4b70-82f3-689a9d55ffef" />
